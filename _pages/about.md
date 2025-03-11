@@ -1,16 +1,16 @@
 ---
 title: About
-description: "Derek Kedziora is a UX writer, content strategist, geek, tinkerer and avid reader."  
+description: "Çağatay Tanyıldız is an avid reader who likes to think."  
 nav: custom
 custom-nav: 
-    - '<a href="/now" title="Now">Now</a>&nbsp;|&nbsp;'
-    - '<a href="/portfolio" title="Portfolio">Portfolio</a>&nbsp;|&nbsp;'
-    - '<a href="/contact" title="Contact">Contact</a>'
+    - '<a href="/now" title="now">now</a>&nbsp;|&nbsp;'
+    # - '<a href="/portfolio" title="portfolio">portfolio</a>&nbsp;|&nbsp;'
+    - '<a href="/contact" title="contact">contact</a>'
 permalink: /about
 --- 
 
 
-Write up some stuff about yourself here. 
+hi, i’m a software engineer based in amsterdam, specializing in backend development and mlops. i work with technologies like python, docker, and kubernetes.
 
-Add a few pictures of yourself that randomly display on each page load and click by going to the `_includes/about-picture-script.html` file.
+beyond coding, i’m passionate about books, personal finance, and practical insights on productivity. this blog is my space to share my thoughts. 
 

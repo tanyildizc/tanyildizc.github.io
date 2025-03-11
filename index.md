@@ -5,23 +5,19 @@ index: true
 ---
 
 
-This is a template for the theme I call *seredyna*, which means medium in Ukrainian. This isn’t a minimalist theme, but it’s also not overloaded. It’s middlism. 
+this is my personal website where i share my thoughts.
 
-See the [source code on GitHub](https://github.com/derekkedziora/Seredyna-jekyll-template) or how it looks in action on my [personal site](https://derekkedziora.com). 
+it's based on my friends' template. see the [source code on github](https://github.com/derekkedziora/Seredyna-jekyll-template).
 
-Add a one line intro and link to your about page. 
-<a href="/about" class="internal-link quarter-line-space">More about me&nbsp;→</a>
+notes<a href="/notes" class="internal-link quarter-line-space">go to my notes&nbsp;→</a>
 
-Link to your frequently updated notes.  
-<a href="/notes" class="internal-link quarter-line-space">Go to my notes&nbsp;→</a>
+longer reads<a href="/blog" class="internal-link quarter-line-space">read my blog&nbsp;→</a>
 
-And a link to your longer-form blog posts. 
-<a href="/blog" class="internal-link quarter-line-space">Read my blog&nbsp;→</a>
+<!-- <a href="/portfolio" class="internal-link quarter-line-space">view my portfolio&nbsp;→</a> -->
 
-Keep your about page about you rather than your job with a portfolio page. 
-<a href="/portfolio" class="internal-link quarter-line-space">View my portfolio&nbsp;→</a>
+say hi<a href="/contact" class="internal-link quarter-line-space">contact&nbsp;→</a>
 
-Please get in touch with the [contact page](/contact). And always give a shout out to your [RSS feeds](/rss).
+follow it by <a href="/rss" class="internal-link quarter-line-space">rss&nbsp;→</a>
 
 <!-- Add you Mastodon handle here if you want to verify it
 	

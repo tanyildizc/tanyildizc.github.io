@@ -324,7 +324,7 @@ aside, .callout {
 
 .posts-by-tag {
   h2 {
-    text-transform: uppercase;
+    text-transform: lowercase;
     letter-spacing: .1em;
   }
   .blog-listing-link {
@@ -416,7 +416,7 @@ aside, .callout {
 }
 
 .index-title {
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: .1em;
 }
 
@@ -445,7 +445,7 @@ aside, .callout {
   padding: calc(1.25 * var(--line-height)) 0;
   h1 {
     font-family: $heading-typeface;
-    text-transform: uppercase;
+    text-transform: lowercase;
     letter-spacing: .1em;
     margin: 0;
   }
