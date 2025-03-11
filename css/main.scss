@@ -340,17 +340,6 @@ aside, .callout {
   text-decoration: none;
 }
 
-.about-picture {
-  float: right; 
-  margin: 0; 
-  padding: 1% 5% 5% 5%;
-  width: clamp(100px, 200px, 50%);
-  img {
-    border: 1px solid var(--main-background-color);
-    border-radius: 1%;
-  }
-} 
-
 .copy-buttons {
   margin-top: calc(.5 * var(--line-height));
 }
