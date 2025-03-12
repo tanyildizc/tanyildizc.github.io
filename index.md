@@ -18,7 +18,7 @@ now<a href="/blog/now" class="internal-link quarter-line-space">updates&nbsp;→
 
 say hi<a href="/contact" class="internal-link quarter-line-space">contact&nbsp;→</a>
 
-follow it by <a href="/rss" class="internal-link quarter-line-space">rss&nbsp;→</a>
+follow by <a href="/rss" class="internal-link quarter-line-space">rss&nbsp;→</a>
 
 <!-- Add you Mastodon handle here if you want to verify it
 	
