@@ -13,6 +13,7 @@ notes<a href="/notes" class="internal-link quarter-line-space">go to my notes&nb
 
 longer reads<a href="/blog" class="internal-link quarter-line-space">read my blog&nbsp;→</a>
 
+now<a href="/blog/now" class="internal-link quarter-line-space">updates&nbsp;→</a>
 <!-- <a href="/portfolio" class="internal-link quarter-line-space">view my portfolio&nbsp;→</a> -->
 
 say hi<a href="/contact" class="internal-link quarter-line-space">contact&nbsp;→</a>

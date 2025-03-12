@@ -1,25 +1,21 @@
 ---
-title: Contact
-description: "Email is the best way to get in touch."
+title: contact
+description: "email is the best way to get in touch."
 permalink: /contact
 --- 
 
 
 
-Email’s the best way to get in touch: 
-
 **{{ site.email }}**
 
 <div class="tag-list copy-buttons">
 
-<button class="btn btn-default" onclick="copyEmailtoClipboard('{{site.email}}')">Copy address</button>
+<button class="btn btn-default" onclick="copyEmailtoClipboard('{{site.email}}')">copy address</button>
 
-<a href="mailto:{{site.email}}">Send email</a>
+<a href="mailto:{{site.email}}">send email</a>
 </div>
 
-Add some social media or other ways to follow you.
-
-[RSS](/rss) is the best way to follow me.
+[rss](/rss) is the best way to follow me.
 
 <script>
 

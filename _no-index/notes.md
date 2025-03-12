@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: notes
 layout: page
 nav: custom
 custom-nav: 
@@ -11,9 +11,9 @@ permalink: /notes
 
 <div class="callout" markdown="1">
 
-## What are notes?
+## what are notes?
 
-This is a microblog for frequent, shorter thoughts, interesting links and shaping ideas before they become full posts. The best way to follow is via [the RSS feed](/rss).
+this is a microblog for frequent, shorter thoughts, interesting links and shaping ideas before they become full posts. the best way to follow is via [the rss feed](/rss).
 
 </div>
 
@@ -32,9 +32,9 @@ This is a microblog for frequent, shorter thoughts, interesting links and shapin
 
 <div class="callout" markdown="1">
 
-## You’ve reached the end, kind of
+## you’ve reached the end, kind of
 
-Notes are meant to be fleeting, so I only display the last 10 of them. Older notes are still accessible either via their respective permalink or the [random note](/notes/random) link.
+notes are meant to be fleeting, so i only display the last 10 of them. older notes are still accessible either via their respective permalink or the [random note](/notes/random) link.
 
 </div>
 
